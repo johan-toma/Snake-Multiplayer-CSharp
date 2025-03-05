@@ -1,4 +1,4 @@
-# Snake Multiplayer
+# Snake Multiplayer 2023
 A extended snake game done in C# using the .NET framework.
 
 # Game Extensions
