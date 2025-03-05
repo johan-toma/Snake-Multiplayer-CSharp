@@ -2,7 +2,7 @@
 A extended snake game done in C# using the .NET framework.
 
 # Game Extensions
-Game is extended with three players playing in the same device, also other extensions include good that increases the speed of a random player for 10 seconds, food that randomizes the controls of a random player for 10 seconds, and the last food extension turns the snake at random intervals for 30 seconds.
+Snake game is extended to support three players on the same device. Additional extensions include food that increases a random player's speed for 10 seconds, food that randomizes a player's controls for 10 seconds, and food that causes the snake to turn at random intervals for 30 seconds.
 
 # Instructions
 1. Open SnakeGame6.sln in Visual Studio.
