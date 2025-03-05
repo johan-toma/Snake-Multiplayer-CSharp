@@ -1,5 +1,5 @@
 # Snake Multiplayer
-A multiplayer game done in C# using the .NET framework.
+A extended snake game done in C# using the .NET framework.
 
 # Instructions
 1. Open SnakeGame6.sln in Visual Studio.
